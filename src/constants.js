@@ -6,4 +6,4 @@
 export const FASTAddress = '0x4d338614fc25afe6edf3994f331b4bad32fb3c6a';
 export const MVPAddress = '0xb0731d50c681c45856bfc3f7539d5f61d4be81d8';
 export const YFTAddress = '0x6633c083f54bb65f702f9f276319bb24b65fec18';
-export const SwapAddress = '0x046E3443aC270fe01bad85cce0ecd4DE024CbE9B';
+export const SwapAddress = '0x9132A0D3E887B4A45E47563CAd10bfd07e857a8e';
